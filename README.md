@@ -1,0 +1,4 @@
+- HOW TO INSTTALL -
+
+  MOVE "Venge Client" TO DOCUMENTS
+  ENJOY :)
