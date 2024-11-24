@@ -1,4 +1,4 @@
-- - HOW TO INSTALL -
+[HOW TO INSTALL]
 
-  MOVE "Venge Client" TO DOCUMENTS
-  ENJOY :)
+MOVE "Venge Client" TO DOCUMENTS
+ENJOY :)
